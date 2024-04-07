@@ -1,0 +1,101 @@
+
+label {
+    color: black;
+    font-size: 1.3rem;
+    font-weight: 700;
+  }
+  
+  input {
+    width: 300px;
+    height: 40px;
+    outline: none;
+    border-radius: 10px;
+    color: black !important;
+    box-shadow: rgb(0, 0, 0.3) 0px 1px 1px;
+  }
+  
+  #btn {
+    border: none;
+    border-radius: 20px;
+    box-shadow: rgb(0, 0, 0.3) 0px 1px 1px;
+    transition: cubic-bezier(0.47, 0, 0.745, 0.715);
+  }
+  
+  #btn:hover {
+    background-color: #6c757d; /* Change to the desired hover color */
+    color: white; /* Change to the desired text color on hover */
+  }
+  
+  
+  #reset-button {
+    background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+ 
+  .app {
+    background-image: url('https://images.shiksha.com/mediadata/images/1580987729phpyNys3D.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  /* College section */
+  .college-section {
+   
+    background-color: #f0f8ff; 
+  }
+  
+  .college-section label {
+    font-weight: bold;
+  }
+  
+  .college-section input {
+    border: 2px solid #4682b4; 
+  }
+  
+  /* Company section */
+  .company-section {
+   
+    background-color: #f5f5dc; 
+  }
+  
+  .company-section label {
+    font-style: italic;
+  }
+  
+  .company-section input {
+    border: 2px solid #daa520; 
+  }
+  
+  /* Events section */
+  .events-section {
+    
+    background-color: #ffe4e1; 
+  }
+  
+  .events-section label {
+    color: #ff1493; 
+  }
+  
+  .events-section input {
+    border: 2px solid #ff69b4; 
+  }
+
+
+  .id-card .box{
+     background-image: url("https://img.freepik.com/free-photo/front-view-male-student-wearing-black-backpack-holding-copybooks-files-blue-wall_140725-42636.jpg?size=626&ext=jpg&ga=GA1.1.1912593985.1712516124&semt=sph");
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+  }
+  
